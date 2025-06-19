@@ -5,5 +5,5 @@ export type User = {
   userEmail: string;
   phoneNumber: string;
   password: string;
-  id: number;
+  userId: string;
 };
