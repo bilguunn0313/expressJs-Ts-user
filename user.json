@@ -1,0 +1,28 @@
+[
+  {
+    "name": "john",
+    "age": 25,
+    "userName": "jonnyB",
+    "userEmail": "jonnyBhop@gmail.com",
+    "phoneNumber": "99001111",
+    "password": "jonnyB0101"
+  },
+  {
+    "name": "Ilya",
+    "age": 25,
+    "userName": "IlyaZ",
+    "userEmail": "jonnyBhop@gmail.com",
+    "phoneNumber": "99001111",
+    "password": "jonnyB0101",
+    "id": 1
+  },
+  {
+    "name": "kafka",
+    "age": 25,
+    "userName": "kafkaD",
+    "userEmail": "kafkaDBhop@gmail.com",
+    "phoneNumber": "99001111",
+    "password": "kapkaB0101",
+    "id": 1
+  }
+]
